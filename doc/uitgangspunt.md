@@ -3,7 +3,7 @@
 * Ik ga onderdelen uit de 538 website gebruiken voor correcte info.
 * Ik wil alle basis onderdelen erin stoppen en met met genoeg tijd ook bonus onderdelen.
 
-##ase 1 Oriëntatie op het gekozen website onderwerp
+## Fase 1 Oriëntatie op het gekozen website onderwerp
 Oriëntatie op het gekozen website onderwerp en
 * Andere radiostations
 * 538 Fans
