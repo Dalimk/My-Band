@@ -22,7 +22,7 @@ My band is een project voor het MediaCollege Amsterdam, in deze README zal ik al
 
    [readme.md]: <https://github.com/dalimk/My-Band/edit/master/README.md>
    [Leidraad_uitgangspunt.md]: <>
-   [Debriefing]: <>
+   [Debriefing]: <https://docs.google.com/document/d/1RRuVVB6BasewWriZl3zwWFc3YFn0BShEVO1sPODzMgE/edit?usp=sharing>
    [doc/1/PvA.rtf]: <>
    [doc/1/urenschatting.md]: <>
    [doc/1/planning.md]: <>
