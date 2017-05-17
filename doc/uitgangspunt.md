@@ -1,19 +1,19 @@
 # Uitgangspunt
-* keuze artiest, festival? etc..
-* Wordt het fictief?
-* Ga je een bestaande site als uitgangspunt nemen?
-* hoe uitgebreid wil je het maken?
+* Radio 538
+* Ik ga onderdelen uit de 538 website gebruiken voor correcte info.
+* Ik wil alle basis onderdelen erin stoppen en met met genoeg tijd ook bonus onderdelen.
 
 ##### Fase 1 Oriëntatie op het gekozen website onderwerp
 Oriëntatie op het gekozen website onderwerp en
-* zijn concurrenten;
-* de doelgroep(en)
-* diensten.
+* Andere radiostations
+* 538 Fans
+* Updates, Info, Agenda en Nummers.
 
 Resultaat: voorbereiding op gesprek met opdrachtgever
 
 ##### Fase 2 Debriefing
-Resultaat: document (eerste versie debriefing)
+Resultaat: [Debriefing]
+[Debriefing]: <https://docs.google.com/document/d/1RRuVVB6BasewWriZl3zwWFc3YFn0BShEVO1sPODzMgE/edit?usp=sharing>
 
 ##### Fase 3 Advies aan opdrachtgever/docent
 Naar aanleiding van eerste briefing
