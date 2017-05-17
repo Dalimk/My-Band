@@ -10,7 +10,7 @@ My band is een project voor het MediaCollege Amsterdam, in deze README zal ik al
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
-| b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
+| b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | TODO | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
@@ -21,7 +21,7 @@ My band is een project voor het MediaCollege Amsterdam, in deze README zal ik al
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/dalimk/My-Band/edit/master/README.md>
-   [Leidraad_uitgangspunt.md]: <>
+   [Leidraad_uitgangspunt.md]: <https://github.com/dalimk/My-Band/blob/master/doc/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1RRuVVB6BasewWriZl3zwWFc3YFn0BShEVO1sPODzMgE/edit?usp=sharing>
    [doc/1/PvA.rtf]: <>
    [doc/1/urenschatting.md]: <>
