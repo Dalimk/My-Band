@@ -20,30 +20,30 @@ My band is een project voor het MediaCollege Amsterdam, in deze README zal ik al
 | b1-k1-w2 FLowChart             | TODO | [Flow]                  | SVG exported by Draw.io |
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
-   [readme.md]: <https://github.com/JouwGithubNaam/myband/blob/master/readme.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
-   [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
-   [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
-   [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
-   [FO]: <https://github.com/jouwgithub/doc/1/FO.md>
-   [Flow]: <https://github.com/jouwgithub/doc/1/flow.svg>
-   [axShare]: <http://w2d1bw.axshare.com/>
+   [readme.md]: <https://github.com/dalimk/My-Band/edit/master/README.md>
+   [Leidraad_uitgangspunt.md]: <>
+   [Debriefing]: <>
+   [doc/1/PvA.rtf]: <>
+   [doc/1/urenschatting.md]: <>
+   [doc/1/planning.md]: <>
+   [doc/1/moodboard]: <>
+   [FO]: <>
+   [Flow]: <>
+   [axShare]: <>
 
 ## Milestones Fase 2
 | Milestone  | Status | Link |
 | ------ |  ------ | ------ |
-| b1-k1-w3 Technisch Ontwerp |  TODO |  [doc/fase2/TO.rtf] |
-| b1-k1-w3 ERD               |  TODO |  [doc/fase2/erd.svg] |
-| b1-k1-w4 Ontwikkelomgeving |  TODO |  [doc/fase2/oo.md]|
-| Link naar de live omgeving |  TODO |  <https://mijnliveomgeving.com>|
-| Implementatieplan          | TODO |  [doc/fase2/imp.rtf] |
+| b1-k1-w3 Technisch Ontwerp |  TODO |  [] |
+| b1-k1-w3 ERD               |  TODO |  [] |
+| b1-k1-w4 Ontwikkelomgeving |  TODO |  []|
+| Link naar de live omgeving |  TODO |  <>|
+| Implementatieplan          | TODO |  [] |
 
-   [doc/fase2/TO.rtf]: <https://github.com/jouwgithub/doc/fase2/TO.rtf>
-   [doc/fase2/erd.svg]: <https://github.com/jouwgithub/doc/fase2/erd.svg>
-   [doc/fase2/oo.md]: <https://github.com/jouwgithub/doc/fase2/oo.md>
-   [doc/fase2/imp.rtf]: <http://github.com/jouwgithub/doc/fase2/imp.rtf>
+   [doc/fase2/TO.rtf]: <>
+   [doc/fase2/erd.svg]: <>
+   [doc/fase2/oo.md]: <>
+   [doc/fase2/imp.rtf]: <>
    
 ## Milestones Fase 3
 | Milestone  | Status | Link |
@@ -53,16 +53,8 @@ My band is een project voor het MediaCollege Amsterdam, in deze README zal ik al
 | B1-K3-W1 Optimalisatieplan | TODO |  [op] |
 | Statistieken | TODO |  [mystat]|
 
- [usertest_youtube]: <https://youtu.be/17WoOqgXsRM?list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH>
- [test]: <https://docs.google.com/spreadsheets/>
- [op]: <https://docs.google.com/spreadsheets/>
- [mystat]: <https://docs.google.com/spreadsheets/>
+ [usertest_youtube]: <>
+ [test]: <>
+ [op]: <>
+ [mystat]: <>
 
-
-## New Features:
-
-  - 
-
-## To do:
-
-  - 
