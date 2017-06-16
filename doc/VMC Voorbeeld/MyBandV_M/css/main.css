@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  border-bottom: grey solid 2px;
+  margin-top: -5px;
+}
+
+nav li {
+  float: right;
+}
+
+nav li a {
+  display: block;
+  color: purple;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  font-weight: bold;
+}
+
+.menu-float-left {
+  float: left;
+}
+
+nav img {
+  width: 155px;
+  height: 50px;
+  margin-left: 200px;
+}
+
+.dropbtn {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ .dropdown:hover .dropbtn {
+      font-weight: bold;
+
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+footer {
+
+}
+
+.radio-stream {
+	margin: 0 auto;
+	background-color: #FAFAFA;
+	width: 500px;
+	height: 300px;
+}
+
+.radio-stream img {
+	width: 500px;
+	height: 280px;
+}
+
+audio {
+	margin: 0 auto;
+	margin-top: 200px;
+	display: block;
+}
+
+.programmering {
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+}
+table td {
+	width: 150px;
+}
+table th {
+    background-color: grey;
+    color: white;
+}
+.programmering-table {
+	text-align: left;
+}
+.green {
+	background-color: #80CC28;
+	color: white;
+}
+.purple {
+	background-color: #5E2590;
+	color: white;
+}
+.djot {
+	cursor: not-allowed;
+}
+.mySlides {
+	display:none;
+}
+.slideshow {
+	margin: 0 auto;
+	width: 80%;
+}
+.contact {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+.about {
+	margin: 0 auto;
+	text-align: center;
+	width: 80%;
+}
