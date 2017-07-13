@@ -1,6 +1,6 @@
 #   My Band
 
-http://22894.hosts.ma-cloud.nl/bewijzenmap/p1.4/My-Band/VMC%20Voorbeeld/MyBandV_M/index.php
+http://22894.hosts.ma-cloud.nl/bewijzenmap/p1.4/My-Band/website/index.php
 
 My band is een project voor het MediaCollege Amsterdam, in deze README zal ik alle updates aangeven en alle bestanden zijn te vinden in deze GitHub.
 
